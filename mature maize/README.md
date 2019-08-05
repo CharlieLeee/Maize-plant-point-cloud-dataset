@@ -7,3 +7,5 @@
 * Dense point cloud were generated using the sparse point cloud in the previous stage using either OpenMVS or PMVS2 & CMVS (integrated in VisualSFM)
 
 * All .ply files could be converted to .off and other common point cloud formats.
+
+* With the help of Point Cloud Library, all .ply files could be converted to .pcd (point cloud format)
